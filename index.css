@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:calibri;
+    display:flex;
+    height:100vh;
+    align-items:center;
+}
+
+.times{
+    width:500px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+    background-color:#20aaff;
+    padding:20px;
+}
+.times h3{
+    font-size:50px;
+}
